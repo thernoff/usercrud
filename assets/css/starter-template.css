@@ -1,0 +1,74 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+    margin-top: 35px;
+    padding: 10px 15px;
+}
+
+.navbar-fixed-top{
+    height: 85px;
+}
+
+p.lead{
+    text-align: right;
+}
+
+.nav button{
+    margin-top: 10px;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-signin .checkbox {
+    font-weight: normal;
+}
+
+.radio, .checkbox {
+    display: block;
+    min-height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+
+.navbar-btn, .navbar-image{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 7px;
+}
+
+.navbar-nav>li>a{
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.thumbnail{
+    border: none;
+    margin-top: 20px;
+}
+
+.img-thumbnail{
+    border-radius: 50%;
+}
+
+.panel{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.btn-filter{
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
+
+.form-filter{
+    margin-top: 20px;
+}
+
